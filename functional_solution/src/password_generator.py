@@ -1,5 +1,5 @@
 import string
-
+import nltk
 import random
 
 def pin_generator(length :int = 4):
